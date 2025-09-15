@@ -1,2 +1,2 @@
 # bhoomika
-Wlcome to NIE
+Welcome to NIE
