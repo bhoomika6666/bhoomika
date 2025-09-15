@@ -5,4 +5,7 @@ Welcome to NIE
 I am bhoomika
 
 
-branch 1 commit 123456
+branch 1 commit 
+
+
+Merge conflict
